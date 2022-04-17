@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="cal.CalculatorTest" time="0.008" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="cal.CalculatorTest" time="0.001" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.14.1+1-Ubuntu-0ubuntu1.20.04"/>
@@ -61,12 +61,12 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="cal.CalculatorTest" name="squarerootTrue" time="0.003"/>
-  <testcase classname="cal.CalculatorTest" name="logTrue" time="0.002"/>
+  <testcase classname="cal.CalculatorTest" name="squarerootTrue" time="0.001"/>
+  <testcase classname="cal.CalculatorTest" name="logTrue" time="0"/>
   <testcase classname="cal.CalculatorTest" name="powerFalse" time="0"/>
-  <testcase classname="cal.CalculatorTest" name="factorialTrue" time="0.001"/>
+  <testcase classname="cal.CalculatorTest" name="factorialTrue" time="0"/>
   <testcase classname="cal.CalculatorTest" name="factorialFalse" time="0"/>
-  <testcase classname="cal.CalculatorTest" name="powerTrue" time="0.001"/>
-  <testcase classname="cal.CalculatorTest" name="squarerootFalse" time="0.001"/>
+  <testcase classname="cal.CalculatorTest" name="powerTrue" time="0"/>
+  <testcase classname="cal.CalculatorTest" name="squarerootFalse" time="0"/>
   <testcase classname="cal.CalculatorTest" name="logFalse" time="0"/>
 </testsuite>
